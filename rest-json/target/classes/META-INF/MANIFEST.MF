@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Program, ktory po zapytaniu RESTowym zwraca obie
+ kt w JSON
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: meite
+Implementation-Vendor-Id: pl.meitetsu.filmscrap
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/rest-json/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
